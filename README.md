@@ -16,4 +16,4 @@
 - [Mateusz Skrzek](https://github.com/SkrzekMateusz/JezykiProgramowania2025-2026.git)
 - [Oliwier Stefanowski](https://github.com/OliwierStefanowski/jezyki_programowania-)
 - [Mateusz Szczepański](https://github.com/SzczepanskiMateusz/JezykiProgramowania)
-- [Agata Wiśniewska](https://github.com/awisniewskaaaa/awisniewska)
+- [Agata Wiśniewska](https://github.com/awisniewskaaaa/awisniewska) 
